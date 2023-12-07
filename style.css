@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+    font-size: 20px;
+}
+.pos{
+    background: grey;
+    width: 700px;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+
+}
+img{
+    width: 100%;
+}
+div.pos .post-header div:first-child{
+   
+    display: inline-block;
+    width:80%;
+    
+}
+div.pos .post-header div:last-child{
+    display: inline-block;
+    width: 18%;
+    text-align: right;
+}
+div.pos .post-header {
+    margin: o;
+}
+p{
+    padding: 0;
+    text-align: center;
+}
